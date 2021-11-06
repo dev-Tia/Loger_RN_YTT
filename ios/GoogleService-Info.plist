@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1028641167080-jvcgnprgsm36f7smin34f43s5i0agpt1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1028641167080-jvcgnprgsm36f7smin34f43s5i0agpt1</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1028641167080-r5n9k42g8v3l0b7mkejdj92d01ht5p0d.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDDOjyR0wFUFIZBfJzDeD18S0kS12fKP4U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1028641167080</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.loger.ytt</string>
+	<key>PROJECT_ID</key>
+	<string>loger-ytt</string>
+	<key>STORAGE_BUCKET</key>
+	<string>loger-ytt.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1028641167080:ios:181b0909c2d98aa1529b5d</string>
+	<key>DATABASE_URL</key>
+	<string>https://loger-ytt.firebaseio.com</string>
+</dict>
+</plist>

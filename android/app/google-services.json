@@ -1,0 +1,81 @@
+{
+  "project_info": {
+    "project_number": "1028641167080",
+    "firebase_url": "https://loger-ytt.firebaseio.com",
+    "project_id": "loger-ytt",
+    "storage_bucket": "loger-ytt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028641167080:android:40767594376665f1529b5d",
+        "android_client_info": {
+          "package_name": "com.loger.ytt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028641167080-r5n9k42g8v3l0b7mkejdj92d01ht5p0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loger.ytt",
+            "certificate_hash": "46684da6e6df19d2742104349eac62a6bd789b56"
+          }
+        },
+        {
+          "client_id": "1028641167080-p91nt3tsgsgmc13nr1rdf9h4qvtmatju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loger.ytt",
+            "certificate_hash": "acd884c608e8d99f7e2b51e43edda6d91ef583c4"
+          }
+        },
+        {
+          "client_id": "1028641167080-soqit28adqalsamumo7eapjbqlnumv0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loger.ytt",
+            "certificate_hash": "d87a9b16853f23b79607c0d83ddabd0593471f96"
+          }
+        },
+        {
+          "client_id": "1028641167080-h9pit6quop66d6dclnhhstod7fd48l08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loger.ytt",
+            "certificate_hash": "a30ab06ee31919e6e6aaa590c35d75597b9cfc62"
+          }
+        },
+        {
+          "client_id": "1028641167080-u5s2v630i75mndnppmea0dgjirmnciv1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loger.ytt",
+            "certificate_hash": "bd7176ea2aa784dcf6da5519067e495bbb9eebf4"
+          }
+        },
+        {
+          "client_id": "1028641167080-ohfl9pt8assbt9qvge018sfvo54b9d4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdyOocwqt1_2Ak7VByLh1rJ1Dh_HCs9wQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028641167080-ohfl9pt8assbt9qvge018sfvo54b9d4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6984881740253042~9382337946"
+    }
+  ],
+  "configuration_version": "1"
+}
